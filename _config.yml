@@ -30,9 +30,15 @@ twitter_username:
 github_username:  jevjay
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
+
+gems:
+  - jemoji
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
