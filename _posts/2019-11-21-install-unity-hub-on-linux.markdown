@@ -20,4 +20,4 @@ chmod +x UnityHub.AppImage
 ./UnityHub.AppImage
 {% endhighlight %}
 
-That's it. Now you are running a full-fledged Unity Hub on your Linux machine.
+That's it and as always, I hope you found this read useful.
