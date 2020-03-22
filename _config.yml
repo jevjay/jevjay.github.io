@@ -20,7 +20,7 @@
 
 title: jevjay development blog
 email: j.v.jermakov@gmail.com
-author: Jevgenij Jermakov
+author: jevjay
 description: >- # this means to ignore newlines until "baseurl:"
   jevjay devlog.
 baseurl: "" # the subpath of your site, e.g. /blog
