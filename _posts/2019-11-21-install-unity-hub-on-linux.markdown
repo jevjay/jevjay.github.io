@@ -2,7 +2,7 @@
 layout: post
 title:  "Installing Unity Hub on Ubuntu 18.04"
 date:   2019-11-21 15:41:51 +0100
-categories: unity linux
+categories: [gamedev, unity]
 ---
 I am using Unity on Linux and I **love** it. I know, I know this might sound controversial but hear me out...
 
